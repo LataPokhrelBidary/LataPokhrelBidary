@@ -4,13 +4,8 @@
 -👯 I’m looking to collaborate with content creators and developers.
 -🔗 Here is my GitHub link 
 (https://github.com/LataPokhrelBidary)
--🙏 Thanks for visiting. 
- __    __       ___      .______   .______   ____    ____      ______   ______    _______   __  .__   __.   _______ 
-|  |  |  |     /   \     |   _  \  |   _  \  \   \  /   /     /      | /  __  \  |       \ |  | |  \ |  |  /  _____|
-|  |__|  |    /  ^  \    |  |_)  | |  |_)  |  \   \/   /     |  ,----'|  |  |  | |  .--.  ||  | |   \|  | |  |  __  
-|   __   |   /  /_\  \   |   ___/  |   ___/    \_    _/      |  |     |  |  |  | |  |  |  ||  | |  . `  | |  | |_ | 
-|  |  |  |  /  _____  \  |  |      |  |          |  |        |  `----.|  `--'  | |  '--'  ||  | |  |\   | |  |__| | 
-|__|  |__| /__/     \__\ | _|      | _|          |__|         \______| \______/  |_______/ |__| |__| \__|  \______| 
+-🙏 Thanks for visiting. Happy coding!!! 💪
+
 
 <!--
 **LataPokhrelBidary/LataPokhrelBidary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
