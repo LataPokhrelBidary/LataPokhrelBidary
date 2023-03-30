@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on docker and kubernetes projects.
 - 🌱 I’m currently learning AWS CICD pipeline and python script to automate AWS resources. 
 - 👯 I’m looking to collaborate with content creators and developers
-here is my GitHub link 
+- here is my GitHub link 
 (https://github.com/LataPokhrelBidary)
 
 
