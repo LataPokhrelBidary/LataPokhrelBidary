@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate with content creators and developers.
 
--🔗 Here is my GitHub link 
+🔗 Here is my GitHub link 
 (https://github.com/LataPokhrelBidary)
 
 🙏 Thanks for visiting. Happy coding!!! 💪
