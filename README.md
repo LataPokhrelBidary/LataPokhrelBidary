@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I am Lata 👋  
+- 🔭 I’m currently working on docker and kubernetes projects.
+- 🌱 I’m currently learning AWS CICD pipeline and python script to automate AWS resources. 
+- 👯 I’m looking to collaborate with content creators and developers
+here is my GitHub link [site name](https://github.com/LataPokhrelBidary)
+
+
+
 
 <!--
 **LataPokhrelBidary/LataPokhrelBidary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
