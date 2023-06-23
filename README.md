@@ -8,6 +8,9 @@
 🔗 Here is my GitHub link 
 (https://github.com/LataPokhrelBidary)
 
+🔗 Please checkout my story in Medium 
+(https://medium.com/@latapb)
+
 🙏 Thanks for visiting. Happy coding!!! 💪
 
 ![sdlc](https://github.com/LataPokhrelBidary/LataPokhrelBidary/assets/72663705/767de281-7357-4650-ad4d-dd9580947c01)
